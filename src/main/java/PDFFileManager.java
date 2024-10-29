@@ -66,7 +66,7 @@ public class PDFFileManager {
     public static void main(String[] args) {
         // Ejemplo de uso
         String fileName = "example.pdf";
-        String textToWrite = "Este es un ejemplo de texto para escribir en un archivo PDF.";
+        String textToWrite = "se escribe un archivo PDF mediante este ejemplo.";
 
         // Escribir en archivo PDF
         writeToPDF(fileName, textToWrite);
