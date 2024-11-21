@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7159bba-00e2-4f1b-a720-8c5febf0ea34" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/VentaService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +38,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1731508575" />
+                    <option name="branchName" value="Johstin" />
+                    <option name="lastUsedInstant" value="1732170057" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="Juan" />
-                    <option name="lastUsedInstant" value="1731508574" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1731508575" />
                   </RecentBranch>
                 </list>
               </option>
@@ -69,9 +70,13 @@
     "Gradle.proyecto_final_progra [:PDFFileManager.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Johstin",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/osori/Desktop/proyecto_final_progra",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/ciaf/proyecto_final_progra/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
@@ -108,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730163159179</updated>
-      <workItem from="1732169701072" duration="136000" />
+      <workItem from="1732169701072" duration="1247000" />
     </task>
     <servers />
   </component>
