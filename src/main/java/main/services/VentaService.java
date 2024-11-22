@@ -1,7 +1,7 @@
-package services;
+package main.services;
 
-import models.Producto;
-import models.Venta;
+import main.models.Producto;
+import main.models.Venta;
 
 import java.io.*;
 import java.time.LocalDateTime;

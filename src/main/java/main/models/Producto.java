@@ -1,5 +1,4 @@
-package models;
-import java.time.LocalDate;
+package main.models;
 
 public class Producto{
     private int id;

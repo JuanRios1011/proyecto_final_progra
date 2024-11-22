@@ -1,10 +1,10 @@
-package utils;
+package main.utils;
 
 import com.github.javafaker.Faker;
-import models.Producto;
-import models.Usuario;
-import services.ArchivoProductoService;
-import services.ArchivoUsuarioService;
+import main.models.Producto;
+import main.models.Usuario;
+import main.services.ArchivoProductoService;
+import main.services.ArchivoUsuarioService;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7159bba-00e2-4f1b-a720-8c5febf0ea34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/example.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/productos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/data/productos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/ProductoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/usuarios.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PDFFileManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/data/productos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/productos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/models/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/models/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/models/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/models/Venta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/models/Venta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/services/ArchivoProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/ArchivoProductoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/services/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/ProductoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/services/Usuarioservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/services/VentaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/VentaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/services/archivousuarioservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/utils/fakeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Usuarioservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/ArchivoUsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/archivoProductoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/archivousuarioservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/fakeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/utils/FakeGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +46,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,12 +68,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1731508575" />
+                    <option name="branchName" value="Juan" />
+                    <option name="lastUsedInstant" value="1732243864" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="Juan" />
-                    <option name="lastUsedInstant" value="1731508574" />
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1732243020" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1731508575" />
                   </RecentBranch>
                 </list>
               </option>
@@ -82,6 +107,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.proyecto_final_progra [:Main.main()].executor": "Run",
     "Gradle.proyecto_final_progra [:PDFFileManager.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Juan",
@@ -91,7 +117,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\ciaf\proyecto_final_progra\src\main\java" />
+      <recent name="C:\ciaf\proyecto_final_progra\src" />
+      <recent name="C:\ciaf\proyecto_final_progra\src\main" />
+      <recent name="C:\ciaf\proyecto_final_progra\src\utils" />
+      <recent name="C:\ciaf\proyecto_final_progra\src\services" />
+      <recent name="C:\ciaf\proyecto_final_progra\src\models" />
     </key>
   </component>
   <component name="RunManager">
