@@ -1,4 +1,4 @@
-package src;
+package main;
 
 import models.Producto;
 import models.Usuario;
