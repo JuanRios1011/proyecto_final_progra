@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7159bba-00e2-4f1b-a720-8c5febf0ea34" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/example.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/productos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/data/productos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/ProductoService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,15 +80,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.proyecto_final_progra [:PDFFileManager.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/ciaf/proyecto_final_progra/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.proyecto_final_progra [:PDFFileManager.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Juan",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/ciaf/proyecto_final_progra/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ciaf\proyecto_final_progra\src\main\java" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="PDFFileManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDFFileManager" />
@@ -108,6 +118,9 @@
       <updated>1730163159179</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
