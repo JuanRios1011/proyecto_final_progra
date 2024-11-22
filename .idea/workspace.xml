@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7159bba-00e2-4f1b-a720-8c5febf0ea34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/usuarios.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PDFFileManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resources/data/productos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/productos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/models/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/models/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/models/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/models/Venta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/models/Venta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/services/ArchivoProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/ArchivoProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/services/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/ProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/services/Usuarioservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/UsuarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/services/VentaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/VentaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/services/archivousuarioservice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/utils/fakeGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/Usuarioservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/services/ArchivoUsuarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/archivoProductoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/archivousuarioservice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/fakeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/utils/FakeGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +89,7 @@
     "Gradle.proyecto_final_progra [:Main.main()].executor": "Run",
     "Gradle.proyecto_final_progra [:PDFFileManager.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Juan",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/ciaf/proyecto_final_progra/src/main/java/org/example/Main.java"
   }
