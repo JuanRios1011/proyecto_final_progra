@@ -1,12 +1,12 @@
-package services;
+package main.services;
 
-import models.Usuario;
+import main.models.Usuario;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArchivoUsuarioService {
+public class UsuarioService {
     public static List<Usuario> cargarUsuarios(String rutaArchivo) {
         List<Usuario> usuarios = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader(rutaArchivo))) {
@@ -14,9 +14,9 @@ public class ArchivoUsuarioService {
             while ((linea = br.readLine()) != null) {
                 String[] datos = linea.split(",");
                 String nombre = datos[0];
-                String contraseña = datos[1];
+                String contrasena = datos[1];
                 Usuario.Rol rol = Usuario.Rol.valueOf(datos[2]);
-                usuarios.add(new Usuario(nombre, contraseña, rol));
+                usuarios.add(new Usuario(nombre, contrasena, rol));
             }
         } catch (IOException e) {
             System.err.println("Error al cargar usuarios: " + e.getMessage());
